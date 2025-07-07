@@ -1,4 +1,20 @@
-![image](https://github.com/user-attachments/assets/a31d2f7c-7d4b-4e88-9495-619b32011ed9)
+# StreamVerse
+
+![image](https://github.com/user-attachments/assets/0dad5353-4f81-4995-ba28-bf46d4063e66)
 
 
-Link para o site: https://site-stream-verse.vercel.app/
+## Sobre
+StreamVerse é um site/projeto que ajuda a encontrar os melhores filmes e séries nas plataformas de streaming Netflix, Amazon Prime Video e Disney+.
+
+## Tecnologias usadas
+- HTML5
+- CSS3
+
+## Link do site
+[https://site-stream-verse.vercel.app/](https://site-stream-verse.vercel.app/)
+
+## Status
+![status](https://img.shields.io/badge/status-concluído-brightgreen)
+
+## Contato
+[Seu LinkedIn](https://www.linkedin.com/in/anacarolinaverna/)
